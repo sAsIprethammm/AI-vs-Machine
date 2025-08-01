@@ -81,7 +81,7 @@ Inside, you’ll find:
 | File                | Description                         |
 |---------------------|-------------------------------------|
 | `ai_vs_machine.ipynb` | Main simulation notebook           |
-| `ai_vs_ml_meme.png` | Meme that visualizes the concept    |
+
 
 ---
 
